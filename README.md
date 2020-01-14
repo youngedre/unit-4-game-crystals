@@ -5,4 +5,4 @@ In this game a random number will be generated and it is the players responsibil
 ## Technologies Used
 * Javascript
 * CSS
-## Play Crystal Collection  here!
+## Play Crystal Collection  here!  https://youngedre.github.io/unit-4-game-crystals/
